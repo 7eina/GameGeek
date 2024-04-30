@@ -16,16 +16,14 @@ Created: Summer 2023
 - **defs.h**: Includes definitions and constants used throughout the application.
 - **Makefile**: Script for compiling the project into an executable.
 
-## Directory Structure
-
-- **src/**: Contains all `.cpp` files.
-- **include/**: Contains all `.h` header files.
-- **tests/**: (Optional) Contains additional test files for personal testing.
-
 ## Compilation Instructions
 
-To compile the project, use one of the following commands:
+To compile the project:
 
-```bash
-make all
-```
+        open a terminal window from projrct file and enter the command: make 
+
+ To Excute Project:
+
+        enter the command: ./main
+        user will then be prompted to choose/enter options from 0 - 11
+
